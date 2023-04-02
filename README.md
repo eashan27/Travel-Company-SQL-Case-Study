@@ -1,6 +1,7 @@
 # Travel-Company-SQL-Case-Study
 DATA ANALYSIS FOR A TRAVEL BASED COMPANY <br>
-CASE STUDY QUESTIONS:
+
+## CASE STUDY QUESTIONS:
 1. Identify the number of users in each segment who booked flights in the month of April?
 2. Find the Users whose first booking was a hotel booking?
 3. Calculate the days between first booking and the last booking of each user?
