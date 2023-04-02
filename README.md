@@ -1,5 +1,4 @@
 # Travel-Company-SQL-Case-Study
-DATA ANALYSIS FOR A TRAVEL BASED COMPANY <br>
 
 ## CASE STUDY QUESTIONS:
 1. Identify the number of users in each segment who booked flights in the month of April?
